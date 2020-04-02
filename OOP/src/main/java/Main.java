@@ -43,7 +43,10 @@ public class Main {
             model1.display();
             model2.display();
 
-    }
+        System.out.println("-------------------------------------");
 
+        MacBook macbook = new MacBook("Apple", 64, "Intel", 800.00, true);
+        macbook.start();
+    }
 
 }
