@@ -6,9 +6,10 @@ public class Main {
         Auto bmw = new Auto();
 
         // bmw ist nun eine komplexe variable, da ist das objekt drin gespeichert
-        // ich kann also auch mit punkt-operator in das object riengehen und z.b. preis und reifen finden
+        // ich kann also auch mit punkt-operator in das object reingehen und z.b. preis und reifen finden
 
         bmw.preis = 6000.50;
         bmw.reifen = 4;
     }
 }
+
